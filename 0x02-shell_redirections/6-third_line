@@ -1,2 +1,2 @@
 #!/bin/bash
-dos2unix iacta
+head -n 3 iacta
